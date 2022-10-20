@@ -21,4 +21,4 @@ class RickRoll(Never):
         return Never()
 
 # How to use?
-RickRoll().Never().Gonna.give().you().up()
+# RickRoll().Never().Gonna.give().you().up()
